@@ -1,24 +1,24 @@
 ### Hello! I'm Kajal Jaiswal! 👋
 
--🔭 I’m currently working as 
+🔭 I’m currently working as 
       - An Outreach Lead at GFG SNU Chapter
       - A Core Team Member of SKEPSIS
       - An Outreach Lead at Codechef SNU Chapter.
-- 🌱 I’m currently learning 
+ 🌱 I’m currently learning 
       - Basic programming using Javascript
       - Data Structures and Algorithms
       - Frontend Development using HTML, CSS and Js.
-- 🤔 I’m looking for help with 
+ 🤔 I’m looking for help with 
       - open-source contributions.
-- 💬 Ask me about
+ 💬 Ask me about
       - Competitive Programming
       - UI/UX Designing
       - Data Structures and Algorithms
       - HTML or CSS
 
-- 😄 Pronouns: 
+ 😄 Pronouns: 
       - She/Her
-- ⚡ Fun fact
+ ⚡ Fun fact
       - I like Java over C++ for CP.
       - I love reading!
 
