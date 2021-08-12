@@ -18,7 +18,7 @@
 
 - 😄 Pronouns: 
        She/Her
-- ⚡ Fun fact
+- ⚡ Fun fact : 
        I like Java over C++ for CP.
 
 ### Connect with me:
