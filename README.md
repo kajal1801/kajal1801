@@ -1,6 +1,6 @@
 <h1 align="center">Hello! I'm Kajal Jaiswal! 👋</h1>
 
-- 🔭 I’m currently working as : 
+- 🔭 I’m currently volunteering as : 
        An Outreach Lead at GFG SNU Chapter,
        A Core Team Member of SKEPSIS and
        An Outreach Lead at Codechef SNU Chapter.
