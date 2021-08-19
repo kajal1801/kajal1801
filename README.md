@@ -23,13 +23,13 @@
 
 ### Connect with me:
 
-<a href="https://twitter.com/KajalJa68940044">
+<a href="https://twitter.com/KajalJa68940044"  target="_blank" >
     <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>&ensp;
-  <a href="https://www.linkedin.com/in/kajal-jaiswal-2b55741bb/">
+  <a href="https://www.linkedin.com/in/kajal-jaiswal-2b55741bb/" target="_blank" >
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>&ensp;
-  <a href="https://www.instagram.com/ka.j.al18/">
+  <a href="https://www.instagram.com/ka.j.al18/" target="_blank" >
     <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
       
