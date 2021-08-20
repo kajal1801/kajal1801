@@ -46,7 +46,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kajal1801&show_icons=true&locale=en" alt="kajal1801" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav-sarage&" alt="gaurav-sarage" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kajal1801&" alt="gaurav-sarage" /></p>
 
 <br />
 <br />
