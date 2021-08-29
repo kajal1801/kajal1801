@@ -12,8 +12,7 @@
        open-source contributions.
 - 💬 Ask me about : 
        Competitive Programming,
-       UI/UX Designing,
-       Data Structures and Algorithms and 
+       Data Structures & Algorithms and 
        HTML or CSS
 
 - 😄 Pronouns: 
