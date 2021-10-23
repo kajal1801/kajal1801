@@ -18,12 +18,12 @@
 - 😄 Pronouns: 
        She/Her
 - ⚡ Fun fact : 
-       I like Java over C++ for CP.
+       I love being at home and let my college life be boring.
 
 
 ### Connect with me:
 
-<a href="https://twitter.com/KajalJa68940044">
+<a href="https://twitter.com/KajalJaiz18">
     <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>&ensp;
   <a href="https://www.linkedin.com/in/kajal-jaiswal-2b55741bb/">
