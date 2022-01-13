@@ -1,15 +1,16 @@
 <h1 align="center">Hello! I'm Kajal Jaiswal! 👋</h1>
 
 - 🔭 I’m currently volunteering as : 
-       An Outreach Lead at GFG SNU Chapter,
-       A Core Team Member of SKEPSIS and
        An Outreach Lead at Codechef SNU Chapter.
+       
 - 🌱 I’m currently learning : 
-       Basic programming using Javascript,
-       Data Structures and Algorithms and
-       Frontend Development using HTML, CSS and Js.
+       Basic programming using Python,
+       Data Structures and Algorithms, and
+       Object Oriented Programming in Java.
+       
 - 🤔 I’m looking for help with : 
-       open-source contributions.
+       open-source contribution opportunities.
+       
 - 💬 Ask me about : 
        Competitive Programming,
        Data Structures & Algorithms and 
@@ -17,14 +18,18 @@
 
 - 😄 Pronouns: 
        She/Her
+       
 - ⚡ Fun fact : 
        I love being at home and let my college life be boring.
 
 
 ### Connect with me:
 
-<a href="https://twitter.com/KajalJaiz18">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+  <a href="https://twitter.com/KajalJaiz18">
+    <img width="30px" src="https://www.iconfinder.com/icons/5296499/fb_facebook_facebook%20logo_icon" />
+  </a>&ensp;
+  <a href="https://www.facebook.com/ka.j.al1801">
+    <img width="30px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png" />
   </a>&ensp;
   <a href="https://www.linkedin.com/in/kajal-jaiswal-2b55741bb/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
