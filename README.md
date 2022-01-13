@@ -26,7 +26,7 @@
 ### Connect with me:
 
   <a href="https://twitter.com/KajalJaiz18">
-    <img width="30px" src="https://www.iconfinder.com/icons/5296499/fb_facebook_facebook%20logo_icon" />
+    <img width="30px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter2_colored_svg-256.png" />
   </a>&ensp;
   <a href="https://www.facebook.com/ka.j.al1801">
     <img width="30px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png" />
