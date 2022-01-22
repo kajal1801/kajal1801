@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Kajal Jaiswal! 👋</h1>
-<img align="center" src="https://c.tenor.com/1mwdqr51emcAAAAC/test-typing.gif" alt="Hello">
+<img text-align="center" src="https://c.tenor.com/1mwdqr51emcAAAAC/test-typing.gif" alt="Hello">
 
 - 🔭 I’m currently volunteering as : 
        An Outreach Lead for the upcoming hackathon, Hack4Bengal.
