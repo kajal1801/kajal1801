@@ -42,7 +42,7 @@
   <a href="https://www.linkedin.com/in/kajal-jaiswal-2b55741bb/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>&ensp;
-  <a href="https://www.instagram.com/ka.j.al18/">
+  <a href="https://www.instagram.com/ka_j_al18/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
       
