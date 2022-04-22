@@ -7,8 +7,7 @@
    <img src="https://c.tenor.com/1mwdqr51emcAAAAC/test-typing.gif" alt="Hello">
 </p>
 
-- 🔭 I’m currently volunteering as : 
-       An Outreach Lead for the upcoming hackathon, Hack4Bengal.
+- 🔭 I’m currently a Full Time student. 
        
 - 🌱 I’m currently learning : 
        Basic programming using Python,
