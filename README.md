@@ -9,8 +9,7 @@
 
 - 🔭 I’m currently a Full Time student. 
        
-- 🌱 I’m currently learning : 
-       Basic programming using Python,
+- 🌱 I’m currently learning :
        Data Structures and Algorithms, and
        Object Oriented Programming in Java.
        
