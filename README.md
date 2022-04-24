@@ -1,5 +1,5 @@
 <h1 align="center">
-       Hello! I'm Kajal Jaiswal! 👋
+       Hello! I'm Kajal Jaiswal!😀
 </h1>
 
 <p align="center">
@@ -7,7 +7,7 @@
    <img src="https://c.tenor.com/1mwdqr51emcAAAAC/test-typing.gif" alt="Hello">
 </p>
 
-- 🔭 I’m currently a Full Time student. 
+- 🔭 I’m currently a Full Time student, looking for an internship. 
        
 - 🌱 I’m currently learning :
        Data Structures and Algorithms, and
