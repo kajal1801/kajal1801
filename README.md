@@ -18,14 +18,11 @@
        
 - 💬 Ask me about : 
        Competitive Programming,
-       Data Structures & Algorithms and 
-       HTML or CSS
+       Data Structures & Algorithms,and 
+       HTML/CSS or Bootstrap.
 
 - 😄 Pronouns: 
        She/Her
-       
-- ⚡ Fun fact : 
-       I love being at home and let my college life be boring.
 
 ---
 
