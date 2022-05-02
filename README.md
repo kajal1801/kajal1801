@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kajal1801&label=Profile%20views&color=0e75b6&style=flat" alt="kajal1801" /> </p>
 
-- 💬 Ask me about **Core Java, C Language, Data Structures and Algorithms.**
+- 💬 Ask me about: **Core Java, C Language, Data Structures and Algorithms.**
 
-- 📫 How to reach me **kajalj181101@gmail.com**
+- 📫 How to reach me: **kajalj181101@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1bx_xJ7nj9wa_pvyY3iAOdAt95zRdXX5d/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1bx_xJ7nj9wa_pvyY3iAOdAt95zRdXX5d/view?usp=sharing)
 
-- ⚡ Fun fact **I'm a noob**
+- ⚡ Fun fact: **I'm a noob**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
