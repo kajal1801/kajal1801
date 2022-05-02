@@ -39,4 +39,4 @@
 
 <h3 align="left">Support:</h3>
 <br>
-<p><a href="https://www.buymeacoffee.com/buymeacoffee kajal1801"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee kajal1801" /></a></p>
+<p><a href="https://www.buymeacoffee.com/kajal1801"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee kajal1801" /></a></p>
