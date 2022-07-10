@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **kajalj181101@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1bx_xJ7nj9wa_pvyY3iAOdAt95zRdXX5d/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1w_3v_SpiAGfApmxZkTeQjg3YFOtaYCWs/view?usp=sharing)
 
 - ⚡ Fun fact: **I'm a noob**
 
