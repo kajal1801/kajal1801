@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kajal Jaiswal</h1>
 <h3 align="center">Java Enthusiast</h3>
+![](https://user-images.githubusercontent.com/75935816/182625855-8c1b7091-b0b6-44ad-abc7-609be0d88306.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kajal1801&label=Profile%20views&color=0e75b6&style=flat" alt="kajal1801" /> </p>
 
