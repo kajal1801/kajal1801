@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kajal Jaiswal</h1>
 <h3 align="center">Java Enthusiast</h3>
-![giphy](https://user-images.githubusercontent.com/75935816/182627128-e2308511-4338-476b-a68c-c63548c59853.gif)
-
+<!-- img src="" alt="Giphy"  width="100px" height="100px" -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kajal1801&label=Profile%20views&color=0e75b6&style=flat" alt="kajal1801" /> </p>
 
