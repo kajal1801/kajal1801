@@ -2,8 +2,6 @@
 <h3 align="center">Java Enthusiast</h3>
 <!-- img src="" alt="Giphy"  width="100px" height="100px" -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kajal1801&label=Profile%20views&color=0e75b6&style=flat" alt="kajal1801" /> </p>
-
 - 💬 Ask me about: **Core Java, C Language, Data Structures and Algorithms.**
 
 - 📚 Currently Learning: **JDBC amd DSA**
@@ -39,7 +37,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kajal1801&show_icons=true&locale=en" alt="kajal1801" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kajal1801&" alt="kajal1801" /></p>
-
-<h3 align="left">Support:</h3>
-<br>
-<p><a href="https://www.buymeacoffee.com/kajal1801"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee kajal1801" /></a></p>
