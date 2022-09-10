@@ -1,6 +1,14 @@
-<h1 align="center">Hi 👋, I'm Kajal Jaiswal</h1>
-<h3 align="center">Java Enthusiast</h3>
-<!-- img src="" alt="Giphy"  width="100px" height="100px" -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Kajal+Jaiswal...;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+<br>
+<p align="center">
+ <img src="https://github.com/kajal1801/kajal1801/blob/master/banner.png" alt="Giphy" width="800px" >
+</p>
+
+<br>
 
 - 💬 Ask me about: **Core Java, C Language, Data Structures and Algorithms.**
 
