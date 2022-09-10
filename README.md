@@ -5,7 +5,7 @@
 </h1>
 <br>
 <p align="center">
- <img src="https://github.com/kajal1801/kajal1801/blob/master/github_banner.png" alt="Giphy" width="800px" >
+ <img src="https://github.com/kajal1801/kajal1801/blob/master/github_banner.png" alt="Giphy" width="1000px" >
 </p>
 
 <br>
