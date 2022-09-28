@@ -12,7 +12,7 @@
 
 - 💬 Ask me about: **Core Java, C Language, Data Structures and Algorithms.**
 
-- 📚 Currently Learning: **JDBC amd DSA**
+- 📚 Currently Learning: **Javascript amd DSA**
 
 - 📫 How to reach me: **kajalj181101@gmail.com**
 
