@@ -28,7 +28,7 @@
 <a href="https://fb.com/ka.j.al1801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ka.j.al1801" height="40" width="50" /></a>
 <a href="https://instagram.com/ka_j_al18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ka_j_al18" height="40" width="50" /></a>
 <a href="https://medium.com/@kajal1801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kajal1801" height="40" width="50" /></a>
-<a href="https://www.youtube.com/c/kajal jaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kajal jaiswal" height="40" width="50" /></a>
+<a href="https://www.youtube.com/channel/UCZbzgpbU_GGenqhvQuc4qRA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kajal jaiswal" height="40" width="50" /></a>
 </p>
 <br>
 <h3 align="left">Trophies:</h3>
