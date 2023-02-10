@@ -20,15 +20,6 @@
 
 - ⚡ Fun fact: **Youtube has taught me more than my College ever did.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kajaljaiz18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kajaljaiz18" height="40" width="50" /></a>
-<a href="https://linkedin.com/in/kajal-jaiswal-2b55741bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kajal-jaiswal-2b55741bb" height="40" width="50" /></a>
-<a href="https://fb.com/ka.j.al1801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ka.j.al1801" height="40" width="50" /></a>
-<a href="https://instagram.com/ka_j_al18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ka_j_al18" height="40" width="50" /></a>
-<a href="https://hashnode.com/@kajal1801" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="kajal1801" height="40" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCZbzgpbU_GGenqhvQuc4qRA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kajal jaiswal" height="40" width="50" /></a>
-</p>
 <br>
 <h3 align="left">Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" ><img src="https://github-profile-trophy.vercel.app/?username=kajal1801" alt="kajal1801" /></a> </p>
