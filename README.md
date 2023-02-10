@@ -16,7 +16,7 @@
 
 - 📫 How to reach me: **kajalj181101@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/12CSsASJ0-M_B50dKr9VFU9tarGf8kn5h/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1RcJ7xIXzTANmhn_AWdJjwQLUWXKDVPVb/view?usp=sharing)
 
 - ⚡ Fun fact: **Youtube has taught me more than my College ever did.**
 
