@@ -12,11 +12,11 @@
 
 - 💬 Ask me about: **Core Java, C Language, Data Structures and Algorithms.**
 
-- 📚 Currently Learning: **Javascript amd DSA**
+- 📚 Currently Learning: **React.js and DSA**
 
 - 📫 How to reach me: **kajalj181101@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1RcJ7xIXzTANmhn_AWdJjwQLUWXKDVPVb/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1ZwrbUK7sY6Qxtrpy3kJYlBlmrzzDyDQj/view?usp=drive_link)
 
 - ⚡ Fun fact: **Youtube has taught me more than my College ever did.**
 
