@@ -10,9 +10,9 @@
 
 <br>
 
-- 💬 Ask me about: **Core Java, C Language, Data Structures and Algorithms.**
+- 💬 Ask me about: **Core Java, JSP, C Language, React js, JavaScript, Data Structures and Algorithms.**
 
-- 📚 Currently Learning: **React.js and DSA**
+- 📚 Currently Learning: **How to survive in corporate and make impactful changes**
 
 - 📫 How to reach me: **kajalj181101@gmail.com**
 
